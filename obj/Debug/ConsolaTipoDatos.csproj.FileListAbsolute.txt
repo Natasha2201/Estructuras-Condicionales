@@ -1,0 +1,7 @@
+C:\Users\jrhec\source\repos\ConsolaTipoDatos\bin\Debug\ConsolaTipoDatos.exe.config
+C:\Users\jrhec\source\repos\ConsolaTipoDatos\bin\Debug\ConsolaTipoDatos.exe
+C:\Users\jrhec\source\repos\ConsolaTipoDatos\bin\Debug\ConsolaTipoDatos.pdb
+C:\Users\jrhec\source\repos\ConsolaTipoDatos\obj\Debug\ConsolaTipoDatos.csproj.AssemblyReference.cache
+C:\Users\jrhec\source\repos\ConsolaTipoDatos\obj\Debug\ConsolaTipoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jrhec\source\repos\ConsolaTipoDatos\obj\Debug\ConsolaTipoDatos.exe
+C:\Users\jrhec\source\repos\ConsolaTipoDatos\obj\Debug\ConsolaTipoDatos.pdb
